@@ -6,8 +6,8 @@
     {
       "path": "assets/client/ui",
       "source": "ETC\\ymir work\\ui",
-      "files": 0,
-      "bytes": 0
+      "files": 1027,
+      "bytes": 25986945
     },
     {
       "path": "assets/client/locale/de/ui",
@@ -18,20 +18,20 @@
     {
       "path": "assets/client/icons/item",
       "source": "icon\\icon\\item",
-      "files": 0,
-      "bytes": 0
+      "files": 1552,
+      "bytes": 7570823
     },
     {
       "path": "assets/client/icons/action",
       "source": "icon\\icon\\action",
-      "files": 0,
-      "bytes": 0
+      "files": 17,
+      "bytes": 68597
     },
     {
       "path": "assets/client/icons/face",
       "source": "icon\\icon\\face",
-      "files": 0,
-      "bytes": 0
+      "files": 8,
+      "bytes": 46577
     },
     {
       "path": "assets/client/loading",
@@ -42,14 +42,14 @@
     {
       "path": "source/client-pack/uiscript",
       "source": "uiscript\\uiscript",
-      "files": 0,
-      "bytes": 0
+      "files": 71,
+      "bytes": 267055
     },
     {
       "path": "assets/client/effects/select-character",
       "source": "Effect\\ymir work\\effect\\etc\\select_character",
-      "files": 0,
-      "bytes": 0
+      "files": 5,
+      "bytes": 87233
     }
   ],
   "notes": [
