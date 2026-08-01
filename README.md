@@ -114,3 +114,18 @@ Jeder Devlog-Eintrag nennt:
 - Nächsten kleinen, reversiblen Schritt.
 
 Letzte Aktualisierung: 2026-08-01 · Gate 010 DONE · Gate 020 DONE · Gate 030 IN PROGRESS.
+## Client-Visualquellen
+
+Der Repo enthält jetzt den kuratierten visuellen Client-Kontext für UI- und Asset-Arbeit:
+
+- assets/client/ui/ — allgemeine UI-Atlanten, Fenster, Intro-, Login-, Select-, Taskbar- und Game-Interface-Grafiken aus ETC/ymir work/ui.
+- assets/client/locale/de/ui/ — deutsche UI-/Locale-Assets inklusive lokalisierter Login- und Interface-Bilder.
+- assets/client/icons/item/ — Item-Icons aus icon/icon/item.
+- assets/client/icons/action/ und assets/client/icons/face/ — Aktions- und Gesichts-Icons.
+- assets/client/loading/ — Loading-Screens und zugehörige .sub-Dateien.
+- assets/client/effects/select-character/ — ausgewählte Character-Select-Effekte.
+- source/client-pack/uiscript/ — echte UI-Layout-Skripte aus pack/uiscript/uiscript.
+
+Die Originalformate bleiben erhalten. Bei DDS-/TGA-Atlanten gehört die zugehörige .sub-Datei zum Asset-Kontext; sie beschreibt den Ausschnitt und darf nicht isoliert ersetzt werden.
+
+Der vollständige 1,1-GB-Pack bleibt lokal. Dieser öffentliche Repo-Snapshot enthält die für UI, Login, Icons, Loading und ChatGPT-Assetarbeit relevanten Dateien.

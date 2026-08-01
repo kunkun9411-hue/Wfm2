@@ -1,0 +1,9 @@
+*.dds binary
+*.tga binary
+*.jpg binary
+*.jpeg binary
+*.bmp binary
+*.sub text
+*.mse text
+*.py text
+*.xml text

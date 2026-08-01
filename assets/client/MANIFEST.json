@@ -1,0 +1,60 @@
+{
+  "generated": "2026-08-01",
+  "purpose": "curated client visual context for UI, login, icons and loading",
+  "sourceRoot": "Lead-Client/pack",
+  "groups": [
+    {
+      "path": "assets/client/ui",
+      "source": "ETC\\ymir work\\ui",
+      "files": 0,
+      "bytes": 0
+    },
+    {
+      "path": "assets/client/locale/de/ui",
+      "source": "locale_de\\locale\\de\\ui",
+      "files": 202,
+      "bytes": 10595516
+    },
+    {
+      "path": "assets/client/icons/item",
+      "source": "icon\\icon\\item",
+      "files": 0,
+      "bytes": 0
+    },
+    {
+      "path": "assets/client/icons/action",
+      "source": "icon\\icon\\action",
+      "files": 0,
+      "bytes": 0
+    },
+    {
+      "path": "assets/client/icons/face",
+      "source": "icon\\icon\\face",
+      "files": 0,
+      "bytes": 0
+    },
+    {
+      "path": "assets/client/loading",
+      "source": "uiloading",
+      "files": 49,
+      "bytes": 10700969
+    },
+    {
+      "path": "source/client-pack/uiscript",
+      "source": "uiscript\\uiscript",
+      "files": 0,
+      "bytes": 0
+    },
+    {
+      "path": "assets/client/effects/select-character",
+      "source": "Effect\\ymir work\\effect\\etc\\select_character",
+      "files": 0,
+      "bytes": 0
+    }
+  ],
+  "notes": [
+    ".sub files stay with their atlas",
+    "full 1.1 GB pack remains local",
+    "server files, runtime and build outputs are excluded"
+  ]
+}
