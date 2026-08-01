@@ -6,8 +6,9 @@
     {
       "path": "assets/client/ui",
       "source": "ETC\\ymir work\\ui",
-      "files": 1027,
-      "bytes": 25986945
+      "files": 498,
+      "bytes": 5533286,
+      "coverage": "core UI subset: intro, taskbar, windows, quest, dungeon, guild, pattern, switchbot and UI root"
     },
     {
       "path": "assets/client/locale/de/ui",
